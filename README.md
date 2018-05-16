@@ -10,7 +10,8 @@ I used the default wav file included by default in many Linux distros. Users can
 ```sh
 sudo python BLEper.py 'bd_addr'
 ```
-Click on the image to see it in action:
+### Click on the image to see it in action:
+
 [![BLEper working on a BLE device - Click to Watch!](https://i.imgur.com/OVPgz2l.png)](https://www.youtube.com/watch?v=C9u31OazI20 "BLEper working on a BLE device - Click to Watch!")
 
 ## License
