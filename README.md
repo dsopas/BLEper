@@ -14,6 +14,14 @@ sudo python BLEper.py 'bd_addr'
 
 [![BLEper working on a BLE device - Click to Watch!](https://i.imgur.com/OVPgz2l.png)](https://www.youtube.com/watch?v=C9u31OazI20 "BLEper working on a BLE device - Click to Watch!")
 
+![Example device](https://i.imgur.com/eFIxjqy.jpg)
+
+- Raspberry PI2
+- Raspbian
+- BLE dongle
+- Powerbank
+- Cheap output speaker (the pirate thing)
+
 ## License
 Copyright (c) 2018 David Sopas
 
