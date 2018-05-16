@@ -3,7 +3,7 @@ BLEper is a small python script that takes a BLE (Bluetooth Low Energy) device a
 I used the default wav file included by default in many Linux distros. Users can change it to whatever. 
 
 ## Requirements
-- pygatt lib
+- pygatt lib (https://github.com/peplin/pygatt)
 - *nix flavour os 
 
 ## How to run it
